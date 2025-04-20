@@ -1,0 +1,6 @@
+# Software decompilers
+Many decompilers have been created during the years to help developers to recover the code from their old softwares, to analyze the behavior of a program to see if it has a bad behavior on your machine but now they are too much and so people had to install many decompilers to see which one fits for them. This is not anymore a problem: with this repository, I want to tell you the best decompilers for reverse engineering every software compiled in machine code, C#, Java and Python.<br />
+* [dnSpy](https://github.com/dnSpyEx/dnSpy/releases) - A famous C#/Visual Basic decompiler made for decompiling .NET assemblies (both *.exe and *.dll files) compiled in .NET Framework, .NET Core or the latest .NET multi-platform technology.
+* [pySpy](https://github.com/Svenskithesource/pySpy) - A Python decompiler made for decompiling Python compiled scripts (*.pyc files).
+* [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer/releases/) - A Java decompiler made for decompiling *.jar, *.dex, *.apk files which uses different important decompilers like Fernflower and Procyon.
+* [x64dbg](https://x64dbg.com/) - A native debugger, decompiler and reverse engineering tool.
